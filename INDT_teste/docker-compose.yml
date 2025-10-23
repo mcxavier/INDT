@@ -1,0 +1,28 @@
+services:
+  propostaservice:
+    image: ${DOCKER_REGISTRY-}propostaservice
+    container_name: api-srv
+    build:
+      context: .
+      dockerfile: PropostaService/Dockerfile
+
+  contratacaoservice:
+    image: ${DOCKER_REGISTRY-}contratacaoservice
+    container_name: api2-srv
+    build:
+      context: .
+      dockerfile: ContratacaoService/Dockerfile
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-db
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "SuaSenhaMuitoForte!123" # A senha deve ser complexa
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+
+volumes:
+  sqlserver-data:

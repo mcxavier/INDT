@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAURICIO\\INDT\\INDT_teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730FC6CD-1277-487F-B5C2-52C4A27DD15C}|PropostaServiceTest\\PropostaServiceTest.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730FC6CD-1277-487F-B5C2-52C4A27DD15C}|PropostaServiceTest\\PropostaServiceTest.csproj|solutionrelative:propostaservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A0A06-4F59-4201-BE6F-D9E294A50F57}|ContratacaoServiceTest\\ContratacaoServiceTest.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A0A06-4F59-4201-BE6F-D9E294A50F57}|ContratacaoServiceTest\\ContratacaoServiceTest.csproj|solutionrelative:contratacaoservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\controllers\\contratacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\controllers\\contratacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\application\\usecase\\contratacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\application\\usecase\\contratacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\core\\interfaces\\icontratacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\core\\interfaces\\icontratacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\propostaservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\propostaservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\persistency\\repository\\propostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\persistency\\repository\\propostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\application\\usecase\\propostausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\application\\usecase\\propostausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\core\\dto\\propostadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\core\\dto\\propostadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\persistency\\entities\\proposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\persistency\\entities\\proposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\application\\tools\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\application\\tools\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\core\\dto\\baseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\core\\dto\\baseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|d:\\mauricio\\indt\\indt_teste\\propostaservice\\propostaservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D3B91B-F27E-4394-8F91-CE92C8AA5B49}|PropostaService\\PropostaService.csproj|solutionrelative:propostaservice\\propostaservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|d:\\mauricio\\indt\\indt_teste\\contratacaoservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1199233-5AF6-4956-80FD-83E2308549D2}|ContratacaoService\\ContratacaoService.csproj|solutionrelative:contratacaoservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaServiceTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PropostaServiceTest\\UnitTest1.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaServiceTest\\UnitTest1.cs",
+              "RelativeToolTip": "PropostaServiceTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:06:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoServiceTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ContratacaoServiceTest\\UnitTest1.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoServiceTest\\UnitTest1.cs",
+              "RelativeToolTip": "ContratacaoServiceTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:05:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Program.cs",
+              "RelativeDocumentMoniker": "ContratacaoService\\Program.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Program.cs",
+              "RelativeToolTip": "ContratacaoService\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:21:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratacaoUseCase.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Application\\UseCase\\ContratacaoUseCase.cs",
+              "RelativeDocumentMoniker": "ContratacaoService\\Application\\UseCase\\ContratacaoUseCase.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Application\\UseCase\\ContratacaoUseCase.cs",
+              "RelativeToolTip": "ContratacaoService\\Application\\UseCase\\ContratacaoUseCase.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:21:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContratacaoUseCase.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Core\\Interfaces\\IContratacaoUseCase.cs",
+              "RelativeDocumentMoniker": "ContratacaoService\\Core\\Interfaces\\IContratacaoUseCase.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Core\\Interfaces\\IContratacaoUseCase.cs",
+              "RelativeToolTip": "ContratacaoService\\Core\\Interfaces\\IContratacaoUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:20:46.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratacaoController.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Controllers\\ContratacaoController.cs",
+              "RelativeDocumentMoniker": "ContratacaoService\\Controllers\\ContratacaoController.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Controllers\\ContratacaoController.cs",
+              "RelativeToolTip": "ContratacaoService\\Controllers\\ContratacaoController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAEwEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:11:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Program.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Program.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Program.cs",
+              "RelativeToolTip": "PropostaService\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:17:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropostaService.http",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\PropostaService.http",
+              "RelativeDocumentMoniker": "PropostaService\\PropostaService.http",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\PropostaService.http",
+              "RelativeToolTip": "PropostaService\\PropostaService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-23T17:10:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropostaRepository.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Persistency\\Repository\\PropostaRepository.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Persistency\\Repository\\PropostaRepository.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Persistency\\Repository\\PropostaRepository.cs",
+              "RelativeToolTip": "PropostaService\\Persistency\\Repository\\PropostaRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:29:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proposta.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Persistency\\Entities\\Proposta.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Persistency\\Entities\\Proposta.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Persistency\\Entities\\Proposta.cs",
+              "RelativeToolTip": "PropostaService\\Persistency\\Entities\\Proposta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:26:30.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropostaDTO.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Core\\DTO\\PropostaDTO.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Core\\DTO\\PropostaDTO.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Core\\DTO\\PropostaDTO.cs",
+              "RelativeToolTip": "PropostaService\\Core\\DTO\\PropostaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:25:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropostaUseCase.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Application\\UseCase\\PropostaUseCase.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Application\\UseCase\\PropostaUseCase.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Application\\UseCase\\PropostaUseCase.cs",
+              "RelativeToolTip": "PropostaService\\Application\\UseCase\\PropostaUseCase.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:29:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseResponseDTO.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Core\\DTO\\BaseResponseDTO.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Core\\DTO\\BaseResponseDTO.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Core\\DTO\\BaseResponseDTO.cs",
+              "RelativeToolTip": "PropostaService\\Core\\DTO\\BaseResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:58:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Application\\Tools\\Utils.cs",
+              "RelativeDocumentMoniker": "PropostaService\\Application\\Tools\\Utils.cs",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\Application\\Tools\\Utils.cs",
+              "RelativeToolTip": "PropostaService\\Application\\Tools\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:20:40.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropostaService",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\PropostaService.csproj",
+              "RelativeDocumentMoniker": "PropostaService\\PropostaService.csproj",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\PropostaService\\PropostaService.csproj",
+              "RelativeToolTip": "PropostaService\\PropostaService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T14:21:28.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContratacaoService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContratacaoService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T14:17:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Dockerfile",
+              "RelativeDocumentMoniker": "ContratacaoService\\Dockerfile",
+              "ToolTip": "D:\\MAURICIO\\INDT\\INDT_teste\\ContratacaoService\\Dockerfile",
+              "RelativeToolTip": "ContratacaoService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-23T14:17:22.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
