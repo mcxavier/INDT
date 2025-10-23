@@ -4,9 +4,11 @@ Projeto de Teste de aptidão C# Dot Net.
 O projeto consiste em dois microsserviços para o contexto de seguros... um gerencia a proposta e o outro a contratação.
 O microsserviço de contratação consome o microsserviço de propostas.
 
+# Arquitetura
+
 Conforme o desenho de Arquitetura (Arquitetura.png) os dois microsserviços (proposta e contratações) representam os microsserviços Core e de interligação dentro da arquitetura hexagonal, ao passo que o serviço de API Gateway desempenhará o papel de microsserviço de borda.
 
-A execução dos microsserviços pode ser realizada diretamente no browser (HTTP) ou via conteiner docker (utilize o DockerFile de cada projeto.
+# Instalando o SQL Server
 
 Os microsserviços utiliza o Sql Server como adaptador de persistência.
 
@@ -31,3 +33,8 @@ GO
 
 
 a partir daqui, basta executar os microsserviços.
+
+
+# Executando os Microsserviços
+
+A execução dos microsserviços pode ser realizada diretamente no browser (HTTP) ou via conteiner docker (utilize o DockerFile de cada projeto.
