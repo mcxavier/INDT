@@ -38,3 +38,8 @@ a partir daqui, basta executar os microsserviços.
 # Executando os Microsserviços
 
 A execução dos microsserviços pode ser realizada diretamente no browser (HTTP) ou via conteiner docker (utilize o DockerFile de cada projeto.
+
+
+# OBSERVAÇÃO
+
+Inicialmente eu havia declinado da vaga pela remuneração. Quando houve uma nova proposta, aí que fui de fato executar o teste... mas acabou faltando tempo pra escrever os testes unitários.
