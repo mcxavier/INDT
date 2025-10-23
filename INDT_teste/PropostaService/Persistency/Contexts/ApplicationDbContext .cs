@@ -8,7 +8,6 @@ namespace PropostaService.Persistency.Contexts
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         { }
 
-
         public virtual DbSet<Proposta>? Propostas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

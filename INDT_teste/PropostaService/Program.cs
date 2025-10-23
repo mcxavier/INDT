@@ -8,7 +8,6 @@ using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
@@ -30,10 +29,12 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddControllers();
 
 builder.Services.AddHttpClient();
+
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "teste", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Proposta", Version = "v1" });
     //c.DocumentFilter<BasePathFilter>("");
 });
 
@@ -53,21 +54,16 @@ using (var scope = app.Services.CreateScope())
     context.Database.Migrate();
 }
 
-
-//Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-
 app.UseRouting();
 
-// CORS Configurations
 app.UseCors("AllowAll");
 
-//Auth Configuration
 app.MapControllers();
 
 app.Run();

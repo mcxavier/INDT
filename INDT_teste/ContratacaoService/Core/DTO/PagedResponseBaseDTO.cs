@@ -9,8 +9,6 @@ namespace ContratacaoService.Core.DTO
         public int TotalCount { get; set; }
         public bool IsSuccess => string.IsNullOrEmpty(ErrorMessage);
         public int StatusCode { get; set; }
-
-
         public JsonElement? Data { get; set; } = null;
 
     }
